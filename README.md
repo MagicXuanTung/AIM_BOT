@@ -5,7 +5,7 @@ AIM_BOT mouse by YOLO V8 AI detection enemy in game
 2. Install Anaconda ( development environment): https://www.anaconda.com/download
 3. Run install file requirements.txt (by Terminal on Project)
    Content inside file “requirements.txt”:
-#  pip install -r requirements.txt
+#  pip install -r requirements.txt (type to install dependencies)
 
 ultralytics
 
